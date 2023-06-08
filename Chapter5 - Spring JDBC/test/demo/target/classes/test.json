@@ -1,0 +1,24 @@
+{
+    "id": "0616036",
+    "name": "Ospreay",
+    "score": 95.5,
+    "graduated": true,
+    "relationship": null,
+    "courseList": ["stormbreaker", "oscutter", "shootingstarpress"],
+    "pet": {
+        "name": "black", 
+        "age": 5 
+    },
+    "petList": [
+        {
+            "name": "white",
+            "age": 3
+        },
+        {
+            "name": "brown",
+            "age": 7
+        }
+    ]
+
+}
+
