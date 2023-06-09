@@ -10,7 +10,7 @@ public class User {
     Integer id;
     String name;
 
-    // @JsonProperty is used to solve different name in json name and variables.
+    // @JsonProperty is used to solve different name in json key and java object.
     @JsonProperty("contact_email")
     String contactEmail;
 
